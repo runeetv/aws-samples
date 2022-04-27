@@ -1,0 +1,9 @@
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Database-operations.deps.json
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Database-operations.runtimeconfig.json
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Database-operations.pdb
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\AWSSDK.SecretsManager.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\Database-operations\bin\Release\net6.0\publish\Database-operations.dll

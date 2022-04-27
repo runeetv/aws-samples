@@ -1,0 +1,10 @@
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\S3-AddObject.deps.json
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\S3-AddObject.runtimeconfig.json
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\S3-AddObject.pdb
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\AWSSDK.Rekognition.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\runeetv\source\repos\Lambda-Sample\S3-AddObject\bin\Release\net6.0\publish\S3-AddObject.dll
