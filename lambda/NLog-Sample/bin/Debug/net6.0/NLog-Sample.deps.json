@@ -1,0 +1,147 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NLog-Sample/1.0.0": {
+        "dependencies": {
+          "AWS.Logger.NLog": "3.1.0",
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.0",
+          "NLog": "4.7.15"
+        },
+        "runtime": {
+          "NLog-Sample.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWS.Logger.Core/3.1.0": {
+        "dependencies": {
+          "AWSSDK.CloudWatchLogs": "3.7.0.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWS.Logger.Core.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "AWS.Logger.NLog/3.1.0": {
+        "dependencies": {
+          "AWS.Logger.Core": "3.1.0",
+          "NLog": "4.7.15"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.AWS.Logger.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "AWSSDK.CloudWatchLogs/3.7.0.5": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.0.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.CloudWatchLogs.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.5"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.0.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.6"
+          }
+        }
+      },
+      "NLog/4.7.15": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.15.867"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLog-Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qgFCDJp5lyUNqCq1z18U7fZ/+rmMyw6RJf9nKfnJrf79YupDj02klQAjxymEYN66NykWXyc68SGkow6fy53hfg==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512"
+    },
+    "AWS.Logger.Core/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ruKBNASE/IBnVZhyeUy0ueuxq1CuMtDHNpU2cqGUg12SxvClkqqY/PVXyM6I4ltsMh/1tF8WdpTBj9k3Fw/PgA==",
+      "path": "aws.logger.core/3.1.0",
+      "hashPath": "aws.logger.core.3.1.0.nupkg.sha512"
+    },
+    "AWS.Logger.NLog/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eDS/rjV7Kubyc6diXHEvhkrBti3/ItkSuKtPduNC8Ab3W23GIjMUzg1irWn1Y7KHXr3CI4d48Cfpb6ut2eelog==",
+      "path": "aws.logger.nlog/3.1.0",
+      "hashPath": "aws.logger.nlog.3.1.0.nupkg.sha512"
+    },
+    "AWSSDK.CloudWatchLogs/3.7.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E9mEMaCVStnkzrs2gb35AbMz8xEGCqMGSnk+yyFJbkmdu9a+w5MVsuwRMkHbqiKn1bs5FTpdQJlV/NtgSYeHbA==",
+      "path": "awssdk.cloudwatchlogs/3.7.0.5",
+      "hashPath": "awssdk.cloudwatchlogs.3.7.0.5.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2oHC7TTLUjwVIvyS3CmCGvDPpgfrm/2FrjRwB/jUPEGreHpGkvTZHgcWbiD9QkLx1BLWJMpP+jww7CXbTuZZXQ==",
+      "path": "awssdk.core/3.7.0.6",
+      "hashPath": "awssdk.core.3.7.0.6.nupkg.sha512"
+    },
+    "NLog/4.7.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vXMmsK17hXnMsKd8BdCrJzvb8JMT0+cPgBGRfnqcXIb6y8b6RMIZexO4hMhQgifcTHgU7dbubvCR5A5wX6Ne+A==",
+      "path": "nlog/4.7.15",
+      "hashPath": "nlog.4.7.15.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXfBmX6gQLod/Pf3ZDiG/aadlre+RcN9X9MzxKt+Lnid0UOXDFBO0V4sUAdRqqD5oOA8YJrkP5lIQs9UItDUuw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\github-runeetv\\aws-samples\\lambda\\Database-operations\\Database-operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.7.10.11\\awssdk.core.3.7.10.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.33\\awssdk.secretsmanager.3.7.2.33.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

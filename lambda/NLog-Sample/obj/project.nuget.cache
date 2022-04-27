@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHbg/X04SKuoWzqQ4Y3tyKD/I0vFAPj/UcZ4w2gIrLRknWbjS8+hFf9Y878VUv1pDONMiWSlRhQ/wePUgmPTQQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\github-runeetv\\aws-samples\\lambda\\NLog-Sample\\NLog-Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\aws.logger.core\\3.1.0\\aws.logger.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\aws.logger.nlog\\3.1.0\\aws.logger.nlog.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.0.5\\awssdk.cloudwatchlogs.3.7.0.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.7.0.6\\awssdk.core.3.7.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
