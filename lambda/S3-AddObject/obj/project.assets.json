@@ -208,23 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\runeetv\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\github.com-runeetv\\aws-samples\\lambda\\S3-AddObject\\S3-AddObject.csproj",
+      "projectUniqueName": "C:\\repos\\github-runeetv\\aws-samples\\lambda\\S3-AddObject\\S3-AddObject.csproj",
       "projectName": "S3-AddObject",
-      "projectPath": "C:\\repos\\github.com-runeetv\\aws-samples\\lambda\\S3-AddObject\\S3-AddObject.csproj",
-      "packagesPath": "C:\\Users\\runeetv\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\github.com-runeetv\\aws-samples\\lambda\\S3-AddObject\\obj\\",
+      "projectPath": "C:\\repos\\github-runeetv\\aws-samples\\lambda\\S3-AddObject\\S3-AddObject.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\github-runeetv\\aws-samples\\lambda\\S3-AddObject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\runeetv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -292,7 +288,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
