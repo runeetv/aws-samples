@@ -23,8 +23,8 @@ public class Function
     {
         ConfigureNLog();
 
-        Logger logger = LogManager.GetCurrentClassLogger();
-        logger.Info("Check the AWS Console CloudWatch Logs console in us-east-1");
+        ILogger logger = LogManager.GetCurrentClassLogger();
+        logger.Info("Check the AWS Console CloudWatch Logs console in us-east-1 at " + DateTime.Now.ToString());
         logger.Info("to see messages in the log streams for the");
         logger.Info("log group NLog.ProgrammaticConfigurationExample");
 
