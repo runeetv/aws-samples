@@ -1,1 +1,0 @@
-# Sample Console application with CRUD operation with Aurora PostgreSQL
