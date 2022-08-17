@@ -13,7 +13,7 @@ namespace aurora_postgresql_dotnet.Models
 
         protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder)
         {
-            var connStr = "Host=babelfish-endpoint.cluster-c1234abcdg.us-east-1.rds.amazonaws.com;Database=XXXXX;Username=XXXXX;Password=XXXXX";
+            var connStr = "Host=auroraPG-endpoint.cluster-c1234abcdg.us-east-1.rds.amazonaws.com;Database=XXXXX;Username=XXXXX;Password=XXXXX";
             optionsBuilder.UseLazyLoadingProxies();
             optionsBuilder.UseNpgsql(connStr);
         }
